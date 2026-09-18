@@ -1,2 +1,3 @@
 add new line into file.txt
 add line in cloud and try push to get in local
+-- add in cloud while local also add. See how pull behave.
